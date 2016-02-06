@@ -1,1 +1,3 @@
-My edit to the same file 
+<<<<<<< HEAD
+Resolved
+>>>>>>> a4972ec15087c158da69de7bfc7d182d974dbb60
